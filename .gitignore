@@ -1,0 +1,16 @@
+Django
+Pension/.env
+*migrations*
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+.idea/*
+venv/
+
+
+# Backup files #
+*.bak
+
